@@ -1,0 +1,4 @@
+[[session]]
+name = "agent-example"
+path = "~/projects/example-agent"
+startup_command = "echo 'sửa lệnh này thành lệnh chạy agent thật của bạn'"

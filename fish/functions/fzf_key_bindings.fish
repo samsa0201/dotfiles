@@ -1,1 +1,0 @@
-/home/iwku/.fzf/shell/key-bindings.fish

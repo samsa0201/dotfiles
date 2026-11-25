@@ -1,0 +1,24 @@
+# Whitelist: only hand-written configs are tracked; browsers, app data and tokens stay out.
+/*
+!/.gitignore
+!/fish/
+!/nvim/
+!/tmux/
+!/hypr/
+!/i3/
+!/polybar/
+!/rofi/
+!/waybar/
+!/picom.conf
+!/starship.toml
+!/git/
+!/sesh/
+!/lazygit/
+!/htop/
+!/bottom/
+!/glow/
+!/neofetch/
+
+# holds exported tokens (DISCORD_TOKEN, FIGMA_TOKEN)
+/fish/fish_variables
+/tmux/*.bak*
